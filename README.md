@@ -2,6 +2,8 @@
 
 ### This repository provides tutorial code for deep learning researchers to learn PyTorch.
 
+### PyTorch Version: 0.4.1
+### Python 3
 
 ### Table Of Contents
 
