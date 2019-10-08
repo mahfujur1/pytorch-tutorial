@@ -13,7 +13,7 @@
 - [Transfer-Learning](https://github.com/mahfujur1/pytorch-tutorial/tree/master/transfer-learning)
 - [Generative Adversarial Networks](https://github.com/mahfujur1/pytorch-tutorial/tree/master/generative%20adversarial%20networks)
 - [Image-Translation](https://github.com/mahfujur1/pytorch-tutorial/tree/master/transfer-learning)
-- [Number of Parameters and Tensor Sizes in a Convolutional Neural Network (CNN)]
+- [Number of Parameters and Tensor Sizes in a Convolutional Neural Network (CNN)](https://github.com/mahfujur1/pytorch-tutorial/blob/master/No%20of%20Parameters%20and%20Tensor%20Sizes%20in%20a%20CNN/Tensor_size_and_no_parameters.ipynb)
 
 
 
